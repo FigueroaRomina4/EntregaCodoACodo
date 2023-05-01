@@ -1,0 +1,41 @@
+
+nav ul li a{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.imgBg{
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    background-color: rgb(66, 63, 63);
+    background-blend-mode: soft-light;
+}
+
+
+
+
+.imgFondo1 {
+    background-image: url("../assets/ba1.jpg"); 
+}
+.imgFondo2 {
+    background-image: url("../assets/ba2.jpg"); 
+}
+.imgFondo3 {
+    background-image: url("../assets/ba3.jpg"); 
+}
+
+.my-btn {
+    --bs-btn-padding-y: .1rem; 
+    --bs-btn-padding-x: .2rem; 
+    --bs-btn-font-size: .65rem;
+}
+
+.bottom-dashed {
+    text-decoration: none;
+    border-bottom: 2px dotted black;
+}
+
+.bg-footer{
+    background-color:rgb(6, 40, 53);
+}
